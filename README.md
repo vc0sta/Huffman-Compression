@@ -11,4 +11,4 @@ https://github.com/nicktimko/huffman/tree/master/huffman
 
 **Rodar:**
 
-```**python compression.py**```
+```python compression.py```
