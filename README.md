@@ -5,6 +5,8 @@ Compressão usando o algoritmo de Huffman
 
 
 **Instalar:** (Necessário para gerar codebooks)
+
+
 https://github.com/nicktimko/huffman/tree/master/huffman
 
 
